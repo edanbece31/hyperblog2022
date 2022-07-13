@@ -36,11 +36,13 @@ body {
 
 #cabecera #tagline {
     padding: 0 0 0 1em;
-    font-weight: 400;
-    font-size: .8em
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
-#post {
-    background: #fff;
-    padding: 1em
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
